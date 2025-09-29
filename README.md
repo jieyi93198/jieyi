@@ -1,8 +1,9 @@
 # About me
 
 
-**Jieyi** is a ⭐_special_⭐repositpry because its'README.md' (this file) appears on your Github
+<h1 align="center"> Hi 🌟, I'm Jie Yi </h1>
+<p align="left"><img src="...">
 
-🍮I am currently a student in UM
+🍮I am currently a student in **UM**
 
 
